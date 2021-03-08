@@ -41,7 +41,6 @@ const styles = StyleSheet.create({
     },
     text: {
         fontSize: 18,
-        fontFamily: 'RobotoSlab',
         color: '#ffffff',
         fontWeight: 'bold'
     },
